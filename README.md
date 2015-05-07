@@ -1,4 +1,5 @@
-![alt tag](https://raw.github.com/webdevsourcerer/viglink/master/assets/img/logo.png)
+![alt tag](https://raw.github.com/cfmaniac/CF-Viglink/blob/master/assets/img/logo.png)
+
 =======
 
 ColdFusion Code for Developing and Tapping into VigLink.
