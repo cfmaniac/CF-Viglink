@@ -1,4 +1,4 @@
-![alt tag](https://raw.github.com/cfmaniac/CF-Viglink/blob/master/assets/img/logo.png)
+![alt tag](https://github.com/cfmaniac/CF-Viglink/blob/master/assets/img/logo.png)
 
 =======
 
